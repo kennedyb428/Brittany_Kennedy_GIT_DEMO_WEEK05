@@ -60,6 +60,8 @@ int main()
     int menuChoice = 0;
     char startNewSession;
 
+    cout << "Git demo for week 5" << endl;
+
     // ***********************Introduction*************************************
     cout << setfill('*') << setw(75) << '*' << endl;
     cout << setfill(' ');
